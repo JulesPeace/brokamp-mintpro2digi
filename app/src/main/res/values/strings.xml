@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">brokamp</string>
+    <string name="st_ckzahlerfassung">Stückzahlerfassung</string>
+    <string name="pr_fen_rohmaterial">Prüfen Rohmaterial</string>
+    <string name="ausbuchenrohmaterial">AusbuchenRohmaterial</string>
+    <string name="betriebsstundenerfassung">Betriebsstundenerfassung</string>
+    <string name="energieverbrauchserfassung">Energieverbrauchserfassung</string>
+    <string name="maschinenausfall_werkzeugwechsel">Maschinenausfall/Werkzeugwechsel</string>
+    <string name="maschineneinrichtung_spannmittel">Maschineneinrichtung/Spannmittel</string>
+    <string name="administration">Administration</string>
+    <string name="abmelden">Abmelden</string>
 </resources>
